@@ -1,0 +1,11 @@
+let elemAreaListTask = $("#area-list-task");
+let elemAreaListTasktr = $("#area-list-task tr");
+let elemAreaForm = $("#area-form");
+let elemInputName = $("#input-name");
+let elemInputLevel = $("#input-level");
+let elemInputID = $("#input-id");
+let elemInputSearch = $("#input-search");
+let elemBtnSearch = $("#btn-search");
+let elemDropSort = $(".dropdown-menu a");
+let elemLabelSort = $("#label-sort");
+let elemBtnClear = $("#btn-clear");
